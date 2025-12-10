@@ -1,3 +1,8 @@
 {
-  "dependencies": ["fmt", "curl"]
+  "dependencies": [
+    "curl",
+    "fmt",
+    "glfw3",
+    "raylib"
+  ]
 }
